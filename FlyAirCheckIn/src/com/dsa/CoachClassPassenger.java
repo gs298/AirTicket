@@ -6,6 +6,7 @@ public class CoachClassPassenger {
 	Random rand = new Random(); 
 	
 	private
+	int x=0;
 	 	int passengerID;
 	 	int serviceTime;
 	 	int arrivalTime;
